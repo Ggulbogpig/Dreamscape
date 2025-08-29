@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="FS_Tile_01" ID="{D15DAE22-4558-43F4-8099-FEBD2F320961}" ShortID="559837045">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{515B1814-AE0B-41C0-939E-95EF39583B53}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF1CF401-2C4F-43B8-8AB4-91F6750964E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="FS_Tile_01" ID="{C1A3D000-009B-4C95-A64F-3AACCC37E701}">
+							<Language>SFX</Language>
+							<AudioFile>FS_Tile_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="155843684"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="FS_Tile_01" ID="{C1A3D000-009B-4C95-A64F-3AACCC37E701}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="FS_Tile_02" ID="{445104DD-4CDF-4E26-A1B4-0C4E56C04395}" ShortID="423790303">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{515B1814-AE0B-41C0-939E-95EF39583B53}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF1CF401-2C4F-43B8-8AB4-91F6750964E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="FS_Tile_02" ID="{30E17BC9-58B2-4E57-B2DE-3559C4AF30EC}">
+							<Language>SFX</Language>
+							<AudioFile>FS_Tile_02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="302944365"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="RTPC">
+							<Reference>
+								<Local>
+									<RTPC Name="" ID="{0DE78F69-0CEE-4F13-BFB2-CEE451B0558B}" ShortID="438432507">
+										<PropertyList>
+											<Property Name="PropertyName" Type="string" Value="Volume"/>
+										</PropertyList>
+										<ReferenceList>
+											<Reference Name="ControlInput">
+												<ObjectRef Name="Distance" ID="{02635711-1559-4864-A4D0-4B47B0788DE9}" WorkUnitID="{77B2FD6B-F208-4B27-9794-76D1727BEDFF}"/>
+											</Reference>
+											<Reference Name="Curve">
+												<Custom>
+													<Curve Name="" ID="{84B6A2D0-02D0-4B3B-B0C4-88814AB8D9E1}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>28.55027</YPos>
+																<Flags>5</Flags>
+																<SegmentShape>Exp3</SegmentShape>
+															</Point>
+															<Point>
+																<XPos>758.89228</XPos>
+																<YPos>0.06182</YPos>
+																<Flags>0</Flags>
+																<SegmentShape>Log3</SegmentShape>
+															</Point>
+															<Point>
+																<XPos>2000</XPos>
+																<YPos>0.04781</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</Custom>
+											</Reference>
+										</ReferenceList>
+									</RTPC>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+					<ActiveSourceList>
+						<ActiveSource Name="FS_Tile_02" ID="{30E17BC9-58B2-4E57-B2DE-3559C4AF30EC}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="FS_Tile_03" ID="{F2EA4403-1FFE-45D1-B340-B0B2B41CF6F0}" ShortID="690841094">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{515B1814-AE0B-41C0-939E-95EF39583B53}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF1CF401-2C4F-43B8-8AB4-91F6750964E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="FS_Tile_03" ID="{4ABEE384-DF03-4E23-A149-01AADE4EC557}">
+							<Language>SFX</Language>
+							<AudioFile>FS_Tile_03.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1069893325"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="FS_Tile_03" ID="{4ABEE384-DF03-4E23-A149-01AADE4EC557}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

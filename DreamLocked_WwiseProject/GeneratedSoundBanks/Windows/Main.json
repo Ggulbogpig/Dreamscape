@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{7D033274-3FD2-4487-A1B5-49E34A726A16}",
+    "Language": "SFX",
+    "Hash": "{DCB45B1B-54E1-35AE-E2BE-0C66FA60D493}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "302944365",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FS_Tile_02.wav",
+      "CachePath": "05/{0512A53F-7890-3DC3-D122-4DEFC296C6CC}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1119725668",
+      "Name": "FootStep_AI",
+      "ObjectPath": "\\Events\\Default Work Unit\\FootStep_AI",
+      "GUID": "{CCA53B8D-8450-4F49-8B87-F915256C71D0}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.6077551",
+      "DurationMax": "0.6077551",
+      "MediaRefs": [
+       {
+        "Id": "302944365"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6C56D8A1-5193-F71D-F549-3A3B8987A10B}"
+ }
+}

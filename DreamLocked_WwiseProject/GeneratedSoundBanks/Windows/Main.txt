@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1119725668	FootStep_AI			\Default Work Unit\FootStep_AI	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	302944365	FS_Tile_02	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\05\{0512A53F-7890-3DC3-D122-4DEFC296C6CC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FS_Tile_02		53700
+

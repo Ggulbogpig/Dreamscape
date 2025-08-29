@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="FootStep_AI" ID="{CCA53B8D-8450-4F49-8B87-F915256C71D0}">
+					<ChildrenList>
+						<Action Name="" ID="{7D0E9B6D-452C-4F3B-AAA3-653E34A5CD79}" ShortID="1026038091">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FS_Tile_02" ID="{445104DD-4CDF-4E26-A1B4-0C4E56C04395}" WorkUnitID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Footsteps" ID="{38783E9F-947D-48B8-8D54-9CC8BDE0C687}">
+					<ChildrenList>
+						<Action Name="" ID="{BFE869F7-40CB-4824-A5CF-0ED9758D66AA}" ShortID="742664001">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FS_Tile_02" ID="{445104DD-4CDF-4E26-A1B4-0C4E56C04395}" WorkUnitID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Footstep" ID="{93636009-0AFF-4285-8C73-B3DDC00A6560}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
