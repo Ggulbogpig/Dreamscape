@@ -5,7 +5,10 @@
 			<ChildrenList>
 				<SoundBank Name="Main" ID="{7D033274-3FD2-4487-A1B5-49E34A726A16}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Play_S_2FAmbience" ID="{B81959FE-0746-42A4-A6C1-272C242A9D86}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_1FAmbience" ID="{08F9CE4E-A6D9-4413-BEC6-43D2517504D9}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Footsteps" ID="{38783E9F-947D-48B8-8D54-9CC8BDE0C687}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_OfficeAmbience" ID="{124FBE54-D18B-4CBE-BA2E-E5C85B996451}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="FootStep_AI" ID="{CCA53B8D-8450-4F49-8B87-F915256C71D0}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

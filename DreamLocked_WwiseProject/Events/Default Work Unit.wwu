@@ -26,6 +26,39 @@
 					</ChildrenList>
 				</Event>
 				<Event Name="Footstep" ID="{93636009-0AFF-4285-8C73-B3DDC00A6560}"/>
+				<Event Name="Play_S_1FAmbience" ID="{08F9CE4E-A6D9-4413-BEC6-43D2517504D9}">
+					<ChildrenList>
+						<Action Name="" ID="{173268B3-B828-4966-AE28-3C57A9A246CB}" ShortID="93033074">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="S_1FAmbience" ID="{84CA93EF-5310-4DBB-9D3B-964AEF31BA23}" WorkUnitID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_S_2FAmbience" ID="{B81959FE-0746-42A4-A6C1-272C242A9D86}">
+					<ChildrenList>
+						<Action Name="" ID="{DF023783-D518-422D-9ED3-E0BB172BE63E}" ShortID="146185838">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="S_2FAmbience" ID="{D9E84B5A-F513-4262-A301-5D978DDC1284}" WorkUnitID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_S_OfficeAmbience" ID="{124FBE54-D18B-4CBE-BA2E-E5C85B996451}">
+					<ChildrenList>
+						<Action Name="" ID="{A85FB753-6B04-4A9F-AB1A-707A2A7E2709}" ShortID="281800739">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="S_OfficeAmbience" ID="{7D39FB85-E6B6-40AF-9A5E-C74300830240}" WorkUnitID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

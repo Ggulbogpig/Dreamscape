@@ -115,6 +115,79 @@
 						<ActiveSource Name="FS_Tile_03" ID="{4ABEE384-DF03-4E23-A149-01AADE4EC557}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="S_1FAmbience" ID="{84CA93EF-5310-4DBB-9D3B-964AEF31BA23}" ShortID="32919449">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{515B1814-AE0B-41C0-939E-95EF39583B53}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF1CF401-2C4F-43B8-8AB4-91F6750964E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="S_1FAmbience" ID="{01364F98-0A84-4FCA-ABF9-952275BC6752}">
+							<Language>SFX</Language>
+							<AudioFile>S_1FAmbience.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="23871345"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="S_1FAmbience" ID="{01364F98-0A84-4FCA-ABF9-952275BC6752}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="S_2FAmbience" ID="{D9E84B5A-F513-4262-A301-5D978DDC1284}" ShortID="659926968">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{515B1814-AE0B-41C0-939E-95EF39583B53}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF1CF401-2C4F-43B8-8AB4-91F6750964E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="S_2FAmbience" ID="{B4842D08-5428-433A-AE76-6E9E4905E092}">
+							<Language>SFX</Language>
+							<AudioFile>S_2FAmbience.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="693752912"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="S_2FAmbience" ID="{B4842D08-5428-433A-AE76-6E9E4905E092}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="S_OfficeAmbience" ID="{7D39FB85-E6B6-40AF-9A5E-C74300830240}" ShortID="655969700">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>5</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{515B1814-AE0B-41C0-939E-95EF39583B53}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF1CF401-2C4F-43B8-8AB4-91F6750964E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="S_OfficeAmbience" ID="{6D8F9201-5168-4E69-AF3F-3B52794AC503}">
+							<Language>SFX</Language>
+							<AudioFile>S_OfficeAmbience.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="431640919"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="S_OfficeAmbience" ID="{6D8F9201-5168-4E69-AF3F-3B52794AC503}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
