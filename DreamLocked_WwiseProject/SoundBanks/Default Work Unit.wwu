@@ -5,10 +5,17 @@
 			<ChildrenList>
 				<SoundBank Name="Main" ID="{7D033274-3FD2-4487-A1B5-49E34A726A16}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Play_Fire_Burning_Loop_2" ID="{F51D5D80-5472-4148-8148-C5279A3B2C79}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music Switch" ID="{18455E9D-7CD7-417D-9F45-B8D486EDFC0A}" WorkUnitID="{8EE90F27-6484-403B-8B0E-CC8614D63158}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_WaterDrippingInCave" ID="{8915AD17-F20C-41BE-83C0-A30ED465CBFB}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_S_2FAmbience" ID="{B81959FE-0746-42A4-A6C1-272C242A9D86}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_S_1FAmbience" ID="{08F9CE4E-A6D9-4413-BEC6-43D2517504D9}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_WindTree" ID="{128107F4-143C-448C-A0BC-16116CC0738F}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_BeachWave" ID="{95E345DE-3C68-46D1-8376-7E08F5E80B11}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Footsteps" ID="{38783E9F-947D-48B8-8D54-9CC8BDE0C687}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_S_OfficeAmbience" ID="{124FBE54-D18B-4CBE-BA2E-E5C85B996451}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Music_Switch_01" ID="{FE90FB23-978B-4D30-85CA-88368AD4FF10}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_SpaceAmbi" ID="{33756D35-0B99-4EBD-B8A6-44B5EB30B2D1}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="FootStep_AI" ID="{CCA53B8D-8450-4F49-8B87-F915256C71D0}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
