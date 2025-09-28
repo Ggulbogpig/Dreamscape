@@ -386,6 +386,35 @@
 						<ActiveSource Name="juanjo_sound - Backrooms Entity 12" ID="{B45AF898-62EA-4EF5-8D98-3BBBCF477022}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="S_SharkRoom" ID="{695F6460-F8EC-48BC-A62F-97BD896A9807}" ShortID="133405530">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{515B1814-AE0B-41C0-939E-95EF39583B53}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF1CF401-2C4F-43B8-8AB4-91F6750964E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="S_SharkRoom" ID="{83C69EFA-275D-469E-A4A1-83221F7F134B}">
+							<Language>SFX</Language>
+							<AudioFile>S_SharkRoom.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1000901096"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="S_SharkRoom" ID="{83C69EFA-275D-469E-A4A1-83221F7F134B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
