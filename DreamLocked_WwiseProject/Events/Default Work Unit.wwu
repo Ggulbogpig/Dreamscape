@@ -147,6 +147,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_S_SharkRoom" ID="{E0AE3E4D-A25E-4636-8502-E79D30CC07D3}">
+					<ChildrenList>
+						<Action Name="" ID="{298B5316-B0F2-44A8-A336-3862CDD26DC7}" ShortID="630416080">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="S_SharkRoom" ID="{695F6460-F8EC-48BC-A62F-97BD896A9807}" WorkUnitID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_S_SharkRoom_01" ID="{78F8E2D3-42CA-44E4-9B4E-177044304856}">
+					<ChildrenList>
+						<Action Name="" ID="{87BED174-92E7-4968-8C81-A1F1512E44AD}" ShortID="861891990">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="S_SharkRoom" ID="{695F6460-F8EC-48BC-A62F-97BD896A9807}" WorkUnitID="{EBB4E6FF-5E58-4C63-9362-D78CFD4C1470}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

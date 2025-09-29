@@ -11,6 +11,8 @@
 						<ObjectRef Name="Play_S_2FAmbience" ID="{B81959FE-0746-42A4-A6C1-272C242A9D86}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_S_1FAmbience" ID="{08F9CE4E-A6D9-4413-BEC6-43D2517504D9}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_S_WindTree" ID="{128107F4-143C-448C-A0BC-16116CC0738F}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_SharkRoom_01" ID="{78F8E2D3-42CA-44E4-9B4E-177044304856}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_S_SharkRoom" ID="{E0AE3E4D-A25E-4636-8502-E79D30CC07D3}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_juanjo_sound___Backrooms_Entity_12" ID="{BA36B8FE-B864-464E-94C2-52FF662D752F}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_S_BeachWave" ID="{95E345DE-3C68-46D1-8376-7E08F5E80B11}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Footsteps" ID="{38783E9F-947D-48B8-8D54-9CC8BDE0C687}" WorkUnitID="{64F7E51B-AE9E-4069-BC48-F545AD9017D7}" Origin="Manual" Filter="7"/>
