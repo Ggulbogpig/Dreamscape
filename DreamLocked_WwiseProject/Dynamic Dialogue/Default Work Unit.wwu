@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{019F7CA0-1571-47A9-B828-9B49C8670D71}" SchemaVersion="123">
-	<DynamicDialogue>
-		<WorkUnit Name="Default Work Unit" ID="{019F7CA0-1571-47A9-B828-9B49C8670D71}" PersistMode="Standalone"/>
-	</DynamicDialogue>
-</WwiseDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:632a11e45482e9b4a41d12e53483da698082b267126ad0a7c79e968b9bd349c7
+size 299

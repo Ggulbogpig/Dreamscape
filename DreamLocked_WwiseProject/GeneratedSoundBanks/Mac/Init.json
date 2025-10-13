@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{0DC9CF8B-B92A-6652-B74E-48ECEDAD46C1}",
+    "Hash": "{483D50F1-EC79-5EF4-DEAF-ED0228A623E9}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -49,9 +49,37 @@
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\Distance",
       "GUID": "{02635711-1559-4864-A4D0-4B47B0788DE9}"
      }
+    ],
+    "StateGroups": [
+     {
+      "Id": "1382476432",
+      "Name": "State",
+      "ObjectPath": "\\States\\Default Work Unit\\State",
+      "GUID": "{B96D096E-AFA8-4336-BA11-079086CF5BC7}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\State\\None",
+        "GUID": "{929621B8-649D-4FD1-9A51-D6C96D495759}"
+       },
+       {
+        "Id": "1702304895",
+        "Name": "lv",
+        "ObjectPath": "\\States\\Default Work Unit\\State\\lv",
+        "GUID": "{7F7A8DB4-6112-4881-814B-F0EEF9DFB246}"
+       },
+       {
+        "Id": "1941003890",
+        "Name": "wave",
+        "ObjectPath": "\\States\\Default Work Unit\\State\\wave",
+        "GUID": "{A9E999AB-CF4F-4756-A830-76B507FA5817}"
+       }
+      ]
+     }
     ]
    }
   ],
-  "FileHash": "{E47C0F62-A10C-A9DE-30B8-29A9E8003BF7}"
+  "FileHash": "{7CBAFC48-91BE-C10F-F958-66B1A74672C3}"
  }
 }

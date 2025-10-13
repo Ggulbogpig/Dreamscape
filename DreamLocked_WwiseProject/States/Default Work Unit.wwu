@@ -1,16 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{1EC906F9-8ECE-44C5-B1B2-37458FA067FF}" SchemaVersion="123">
-	<States>
-		<WorkUnit Name="Default Work Unit" ID="{1EC906F9-8ECE-44C5-B1B2-37458FA067FF}" PersistMode="Standalone">
-			<ChildrenList>
-				<StateGroup Name="State" ID="{B96D096E-AFA8-4336-BA11-079086CF5BC7}">
-					<ChildrenList>
-						<State Name="None" ID="{929621B8-649D-4FD1-9A51-D6C96D495759}"/>
-						<State Name="wave" ID="{A9E999AB-CF4F-4756-A830-76B507FA5817}"/>
-						<State Name="lv" ID="{7F7A8DB4-6112-4881-814B-F0EEF9DFB246}"/>
-					</ChildrenList>
-				</StateGroup>
-			</ChildrenList>
-		</WorkUnit>
-	</States>
-</WwiseDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba976e9b67404d6177a1f7705f8857df36f66ea5b0e5a978d5e1006b4faf7dd8
+size 675

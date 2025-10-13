@@ -1,10 +1,42 @@
 Event	ID	Name			Wwise Object Path	Notes
+	43444382	Play_S_SharkRoom			\Default Work Unit\Play_S_SharkRoom	
+	369109228	Play_Fire_Burning_Loop_2			\Default Work Unit\Play_Fire_Burning_Loop_2	
+	894922414	Play_S_BeachWave			\Default Work Unit\Play_S_BeachWave	
 	1119725668	FootStep_AI			\Default Work Unit\FootStep_AI	
+	1456339671	Play_S_SpaceAmbi			\Default Work Unit\Play_S_SpaceAmbi	
+	1472273862	Play_S_WaterDrippingInCave			\Default Work Unit\Play_S_WaterDrippingInCave	
+	1828886073	Play_S_1FAmbience			\Default Work Unit\Play_S_1FAmbience	
+	2285108864	Play_S_OfficeAmbience			\Default Work Unit\Play_S_OfficeAmbience	
 	2385628198	Footsteps			\Default Work Unit\Footsteps	
+	2984332645	Play_juanjo_sound___Backrooms_Entity_12			\Default Work Unit\Play_juanjo_sound___Backrooms_Entity_12	
+	3003415600	Play_S_2FAmbience			\Default Work Unit\Play_S_2FAmbience	
+	3141198956	Play_S_SharkRoom_01			\Default Work Unit\Play_S_SharkRoom_01	
+	3426349064	Play_Music_Switch_01			\Default Work Unit\Play_Music_Switch_01	
+	3615588086	Play_S_WindTree			\Default Work Unit\Play_S_WindTree	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1382476432	State			\Default Work Unit\State	
+
+State	ID	Name	State Group			Notes
+	748895195	None	State			
+	1702304895	lv	State			
+	1941003890	wave	State			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	1240670792	Distance			\Default Work Unit\Distance	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	23871345	S_1FAmbience	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\46\{46FE7533-57F7-4AB1-FC87-799A49ACC816}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_1FAmbience		24192104
+	146126385	S_WindTree	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\42\{429BE0B3-1FF4-9868-DC9D-1299EE66A239}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_WindTree		7879304
+	171663921	Fire Burning Loop 2	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\B2\{B2EFAA07-9FCB-A652-D6E8-B5C1A144070A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fire Burning Loop 2		6174096
+	175921293	S_SpaceAmbi	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\C6\{C6816643-5A5F-4896-E557-7566CA1A43E7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_SpaceAmbi		22588512
+	206853092	juanjo_sound - Backrooms Entity 12	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\51\{51CA49B0-B3BD-31E3-D43B-16E3C0F225C9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\juanjo_sound - Backrooms Entity 12		574292
+	280930072	S_BeachWave	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\95\{956F12CD-1C06-AE26-2E0E-96B775219779}.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Repeat wave\wave\S_BeachWave		12125536
+	300528971	S_BeachWave	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\0C\{0C1A41FC-BC5D-F9AE-C6C3-52A21821398D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_BeachWave		12125536
 	302944365	FS_Tile_02	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\05\{0512A53F-7890-3DC3-D122-4DEFC296C6CC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FS_Tile_02		53700
+	431640919	S_OfficeAmbience	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\8C\{8C5C84EB-3792-0D79-F548-08AC9B88D0F0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_OfficeAmbience		30313056
+	614800243	S_1FAmbience	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\28\{288309BA-3482-1A92-A0F7-E3035AD6D624}.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Rpeat lv\lv\S_1FAmbience		24192104
+	693752912	S_2FAmbience	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\BC\{BC2256FB-88FB-E0F1-F5B3-278C8FE318CE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_2FAmbience		69120096
+	963554098	S_WaterDrippingInCave	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\6F\{6F759181-011B-7329-586F-ACAB6CDC9A7D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_WaterDrippingInCave		17245624
+	1000901096	S_SharkRoom	C:\Users\hbsss\AI_unity2\DreamLocked\DreamLocked_WwiseProject\.cache\0B\{0B192119-E743-BDC2-8924-798EB66DAFFA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\S_SharkRoom		20119648
 
