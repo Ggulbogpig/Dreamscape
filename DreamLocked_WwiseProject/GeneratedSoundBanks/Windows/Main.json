@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{7D033274-3FD2-4487-A1B5-49E34A726A16}",
     "Language": "SFX",
-    "Hash": "{52A050AC-2BB8-52CE-0341-8C01EBC7F505}",
+    "Hash": "{EFB3EB02-44A5-3EEF-9188-6ACC75B3BFA1}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -86,6 +86,14 @@
       "Location": "Memory",
       "ShortName": "S_OfficeAmbience.wav",
       "CachePath": "8C/{8C5C84EB-3792-0D79-F548-08AC9B88D0F0}.wem"
+     },
+     {
+      "Id": "465207696",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "S_3FAmbi.wav",
+      "CachePath": "C7/{C7A8697B-A3F1-0B2E-1065-D86DD1A91E92}.wem"
      },
      {
       "Id": "614800243",
@@ -254,6 +262,20 @@
       ]
      },
      {
+      "Id": "288750386",
+      "Name": "Play_S_3FAmbi",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_S_3FAmbi",
+      "GUID": "{78B70D9A-E8C3-47C2-A496-5E65C1F9AEC6}",
+      "DurationType": "OneShot",
+      "DurationMin": "34.17977",
+      "DurationMax": "34.17977",
+      "MediaRefs": [
+       {
+        "Id": "465207696"
+       }
+      ]
+     },
+     {
       "Id": "894922414",
       "Name": "Play_S_BeachWave",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_BeachWave",
@@ -390,6 +412,6 @@
     ]
    }
   ],
-  "FileHash": "{DBF683D2-33CC-F110-95F0-6F16AB4087FC}"
+  "FileHash": "{4D37365A-129A-A9D7-ABA6-0C00588043D3}"
  }
 }
