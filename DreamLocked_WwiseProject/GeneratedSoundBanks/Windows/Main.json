@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{7D033274-3FD2-4487-A1B5-49E34A726A16}",
     "Language": "SFX",
-    "Hash": "{EFB3EB02-44A5-3EEF-9188-6ACC75B3BFA1}",
+    "Hash": "{242BD5CD-CD38-1A6E-AEFA-3CAD2A56B479}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -56,6 +56,14 @@
       "CachePath": "51/{51CA49B0-B3BD-31E3-D43B-16E3C0F225C9}.wem"
      },
      {
+      "Id": "215321787",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "juanjo_sound - Backrooms Entity 5.wav",
+      "CachePath": "51/{5168E7A5-07EC-7964-994A-337F7295A1EE}.wem"
+     },
+     {
       "Id": "280930072",
       "Language": "SFX",
       "Streaming": "false",
@@ -86,6 +94,14 @@
       "Location": "Memory",
       "ShortName": "S_OfficeAmbience.wav",
       "CachePath": "8C/{8C5C84EB-3792-0D79-F548-08AC9B88D0F0}.wem"
+     },
+     {
+      "Id": "448783923",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "juanjo_sound - Backrooms Entity 8.wav",
+      "CachePath": "61/{617C46EF-5974-2BD4-E7AC-0534A476B983}.wem"
      },
      {
       "Id": "465207696",
@@ -182,6 +198,32 @@
       "MediaRefs": [
        {
         "Id": "206853092"
+       }
+      ]
+     },
+     {
+      "Id": "2952327081",
+      "Name": "Play_juanjo_sound___Backrooms_Entity_5",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_juanjo_sound___Backrooms_Entity_5",
+      "GUID": "{783636AD-309D-4931-9EDF-4811C5412292}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.7788436",
+      "DurationMax": "3.7788436",
+      "MediaRefs": [
+       {
+        "Id": "215321787"
+       }
+      ]
+     },
+     {
+      "Id": "2952327076",
+      "Name": "Play_juanjo_sound___Backrooms_Entity_8",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_juanjo_sound___Backrooms_Entity_8",
+      "GUID": "{E92DE7F6-415E-432E-AD24-D3888D1B15AF}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "448783923"
        }
       ]
      },
@@ -412,6 +454,6 @@
     ]
    }
   ],
-  "FileHash": "{4D37365A-129A-A9D7-ABA6-0C00588043D3}"
+  "FileHash": "{09214947-E1F1-CC98-F1CE-81DD6B2E67C3}"
  }
 }
