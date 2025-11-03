@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{7D033274-3FD2-4487-A1B5-49E34A726A16}",
     "Language": "SFX",
-    "Hash": "{5B0308DA-6744-8739-0A03-FBEBE201606B}",
+    "Hash": "{242BD5CD-CD38-1A6E-AEFA-3CAD2A56B479}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -61,7 +61,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "juanjo_sound - Backrooms Entity 5.wav",
-      "CachePath": "5C/{5CFDC022-9894-1AFE-6771-8F0E02929D11}.wem"
+      "CachePath": "51/{5168E7A5-07EC-7964-994A-337F7295A1EE}.wem"
      },
      {
       "Id": "280930072",
@@ -206,7 +206,9 @@
       "Name": "Play_juanjo_sound___Backrooms_Entity_5",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_juanjo_sound___Backrooms_Entity_5",
       "GUID": "{783636AD-309D-4931-9EDF-4811C5412292}",
-      "DurationType": "Infinite",
+      "DurationType": "OneShot",
+      "DurationMin": "3.7788436",
+      "DurationMax": "3.7788436",
       "MediaRefs": [
        {
         "Id": "215321787"
@@ -452,6 +454,6 @@
     ]
    }
   ],
-  "FileHash": "{C1A30D88-7CAC-6785-E5D6-8A9555E62DB3}"
+  "FileHash": "{09214947-E1F1-CC98-F1CE-81DD6B2E67C3}"
  }
 }
