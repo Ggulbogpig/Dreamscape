@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{7D033274-3FD2-4487-A1B5-49E34A726A16}",
     "Language": "SFX",
-    "Hash": "{242BD5CD-CD38-1A6E-AEFA-3CAD2A56B479}",
+    "Hash": "{47A28BD0-8677-3C89-528E-466619C2E6AC}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_1FAmbience.wav",
-      "CachePath": "46/{46FE7533-57F7-4AB1-FC87-799A49ACC816}.wem"
+      "CachePath": "28/{288309BA-3482-1A92-A0F7-E3035AD6D624}.wem"
      },
      {
       "Id": "146126385",
@@ -29,7 +29,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_WindTree.wav",
-      "CachePath": "42/{429BE0B3-1FF4-9868-DC9D-1299EE66A239}.wem"
+      "CachePath": "FD/{FDC608AA-007B-60C3-4DA5-8BE71E1F07A6}.wem"
      },
      {
       "Id": "171663921",
@@ -45,7 +45,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_SpaceAmbi.wav",
-      "CachePath": "C6/{C6816643-5A5F-4896-E557-7566CA1A43E7}.wem"
+      "CachePath": "8B/{8BDEA8E7-5480-1876-252E-442EAFEDD2F4}.wem"
      },
      {
       "Id": "206853092",
@@ -53,7 +53,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "juanjo_sound - Backrooms Entity 12.wav",
-      "CachePath": "51/{51CA49B0-B3BD-31E3-D43B-16E3C0F225C9}.wem"
+      "CachePath": "2A/{2A85E0F1-5A8C-7018-A6B3-A56D4FB68572}.wem"
      },
      {
       "Id": "215321787",
@@ -61,7 +61,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "juanjo_sound - Backrooms Entity 5.wav",
-      "CachePath": "51/{5168E7A5-07EC-7964-994A-337F7295A1EE}.wem"
+      "CachePath": "5C/{5CFDC022-9894-1AFE-6771-8F0E02929D11}.wem"
      },
      {
       "Id": "280930072",
@@ -77,7 +77,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_BeachWave.wav",
-      "CachePath": "0C/{0C1A41FC-BC5D-F9AE-C6C3-52A21821398D}.wem"
+      "CachePath": "95/{956F12CD-1C06-AE26-2E0E-96B775219779}.wem"
      },
      {
       "Id": "302944365",
@@ -93,7 +93,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_OfficeAmbience.wav",
-      "CachePath": "8C/{8C5C84EB-3792-0D79-F548-08AC9B88D0F0}.wem"
+      "CachePath": "27/{27140475-83A4-74C9-C355-83FDC4A8450C}.wem"
      },
      {
       "Id": "448783923",
@@ -109,7 +109,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_3FAmbi.wav",
-      "CachePath": "C7/{C7A8697B-A3F1-0B2E-1065-D86DD1A91E92}.wem"
+      "CachePath": "EB/{EB92F825-62A3-ECFA-EFBE-50522ECC263B}.wem"
      },
      {
       "Id": "614800243",
@@ -125,7 +125,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_2FAmbience.wav",
-      "CachePath": "BC/{BC2256FB-88FB-E0F1-F5B3-278C8FE318CE}.wem"
+      "CachePath": "30/{3066C8C0-DB40-CC73-6FC0-BCD339108C23}.wem"
      },
      {
       "Id": "963554098",
@@ -133,7 +133,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_WaterDrippingInCave.wav",
-      "CachePath": "6F/{6F759181-011B-7329-586F-ACAB6CDC9A7D}.wem"
+      "CachePath": "2F/{2FADF7C7-47B3-3E58-02E6-AB3A370B7CF6}.wem"
      },
      {
       "Id": "1000901096",
@@ -141,7 +141,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_SharkRoom.wav",
-      "CachePath": "0B/{0B192119-E743-BDC2-8924-798EB66DAFFA}.wem"
+      "CachePath": "D0/{D0CF3CA5-C6EF-84A6-5E82-6175B2ABB29A}.wem"
      }
     ],
     "Events": [
@@ -192,9 +192,7 @@
       "Name": "Play_juanjo_sound___Backrooms_Entity_12",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_juanjo_sound___Backrooms_Entity_12",
       "GUID": "{BA36B8FE-B864-464E-94C2-52FF662D752F}",
-      "DurationType": "OneShot",
-      "DurationMin": "3.2548072",
-      "DurationMax": "3.2548072",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "206853092"
@@ -206,9 +204,7 @@
       "Name": "Play_juanjo_sound___Backrooms_Entity_5",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_juanjo_sound___Backrooms_Entity_5",
       "GUID": "{783636AD-309D-4931-9EDF-4811C5412292}",
-      "DurationType": "OneShot",
-      "DurationMin": "3.7788436",
-      "DurationMax": "3.7788436",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "215321787"
@@ -280,9 +276,7 @@
       "Name": "Play_S_1FAmbience",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_1FAmbience",
       "GUID": "{08F9CE4E-A6D9-4413-BEC6-43D2517504D9}",
-      "DurationType": "OneShot",
-      "DurationMin": "137.1429",
-      "DurationMax": "137.1429",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "23871345"
@@ -294,9 +288,7 @@
       "Name": "Play_S_2FAmbience",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_2FAmbience",
       "GUID": "{B81959FE-0746-42A4-A6C1-272C242A9D86}",
-      "DurationType": "OneShot",
-      "DurationMin": "360",
-      "DurationMax": "360",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "693752912"
@@ -308,9 +300,7 @@
       "Name": "Play_S_3FAmbi",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_3FAmbi",
       "GUID": "{78B70D9A-E8C3-47C2-A496-5E65C1F9AEC6}",
-      "DurationType": "OneShot",
-      "DurationMin": "34.17977",
-      "DurationMax": "34.17977",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "465207696"
@@ -322,9 +312,7 @@
       "Name": "Play_S_BeachWave",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_BeachWave",
       "GUID": "{95E345DE-3C68-46D1-8376-7E08F5E80B11}",
-      "DurationType": "OneShot",
-      "DurationMin": "68.73832",
-      "DurationMax": "68.73832",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "300528971"
@@ -336,9 +324,7 @@
       "Name": "Play_S_OfficeAmbience",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_OfficeAmbience",
       "GUID": "{124FBE54-D18B-4CBE-BA2E-E5C85B996451}",
-      "DurationType": "OneShot",
-      "DurationMin": "157.88",
-      "DurationMax": "157.88",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "431640919"
@@ -350,9 +336,7 @@
       "Name": "Play_S_SharkRoom",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_SharkRoom",
       "GUID": "{E0AE3E4D-A25E-4636-8502-E79D30CC07D3}",
-      "DurationType": "OneShot",
-      "DurationMin": "104.78933",
-      "DurationMax": "104.78933",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "1000901096"
@@ -364,9 +348,7 @@
       "Name": "Play_S_SharkRoom_01",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_SharkRoom_01",
       "GUID": "{78F8E2D3-42CA-44E4-9B4E-177044304856}",
-      "DurationType": "OneShot",
-      "DurationMin": "104.78933",
-      "DurationMax": "104.78933",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "1000901096"
@@ -378,9 +360,7 @@
       "Name": "Play_S_SpaceAmbi",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_SpaceAmbi",
       "GUID": "{33756D35-0B99-4EBD-B8A6-44B5EB30B2D1}",
-      "DurationType": "OneShot",
-      "DurationMin": "128.05225",
-      "DurationMax": "128.05225",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "175921293"
@@ -392,9 +372,7 @@
       "Name": "Play_S_WaterDrippingInCave",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_WaterDrippingInCave",
       "GUID": "{8915AD17-F20C-41BE-83C0-A30ED465CBFB}",
-      "DurationType": "OneShot",
-      "DurationMin": "89.82046",
-      "DurationMax": "89.82046",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "963554098"
@@ -406,9 +384,7 @@
       "Name": "Play_S_WindTree",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_S_WindTree",
       "GUID": "{128107F4-143C-448C-A0BC-16116CC0738F}",
-      "DurationType": "OneShot",
-      "DurationMin": "41.03754",
-      "DurationMax": "41.03754",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "146126385"
@@ -454,6 +430,6 @@
     ]
    }
   ],
-  "FileHash": "{09214947-E1F1-CC98-F1CE-81DD6B2E67C3}"
+  "FileHash": "{D580A267-0185-42A6-57F0-F3C89596020A}"
  }
 }
