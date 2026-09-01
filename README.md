@@ -13,9 +13,14 @@
 - 출시 플랫폼: 
 - 담당 역할: 클라이언트 개발자(2명)/레벨 담당(2명)/아트 담당(2명)
 
-## 플레이 영상 또는 스크린샷
+## 대표 이미지 & 플레이 영상
+<p align="center">
+  <img src="Images/poster2.jpg" width="25%">
 
-
+  <a href="https://youtu.be/E6Rys5QUZvI?si=ZuUGutQmCuku4-Zm">
+    <img src="https://img.youtube.com/vi/E6Rys5QUZvI/0.jpg" width="50%">
+  </a>
+</p>
 
 ## 게임 설명
 회사에서 업무 중 갑자기 의식을 잃은 주인공은 눈을 떠보니 어린 시절 놀던 놀이터와 박물관 등 환상의 공간에
